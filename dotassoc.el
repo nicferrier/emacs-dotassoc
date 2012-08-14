@@ -3,6 +3,9 @@
 ;; Copyright (C) 2012  Nic Ferrier
 
 ;; Author: Nic Ferrier <nferrier@ferrier.me.uk>
+;; Maintainer: Nic Ferrier <nferrier@ferrier.me.uk>
+;; Created: 14 August 2012
+;; Version: 0.0.1
 ;; Keywords: lisp
 
 ;; This program is free software; you can redistribute it and/or modify
