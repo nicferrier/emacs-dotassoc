@@ -1,0 +1,11 @@
+Access nested alists with dot notation expressions.
+
+The best way to illustrate this is with examples:
+
+{{{
+(dotassoc "a.b.c" '(("a" . (("b" . (("c" . 10)))))))
+=> 10
+
+(dotassq 'a.b.c '((a . ((b . ((c . 10)))))))
+=> 10
+}}}
